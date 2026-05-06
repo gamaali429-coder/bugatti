@@ -1,0 +1,21 @@
+Model,Year,Engine,Displacement_L,Cylinders,Horsepower_HP,Torque_Nm,Top_Speed_kmh,Acceleration_0_100_s,Weight_kg,Price_USD,Country,Drive_Type,Transmission
+Veyron 16.4,2005,W16 Quad-Turbo,8.0,16,1001,1250,407,2.5,1888,1500000,France,AWD,7-speed DSG
+Veyron Super Sport,2010,W16 Quad-Turbo,8.0,16,1200,1500,431,2.4,1838,2400000,France,AWD,7-speed DSG
+Veyron Grand Sport,2009,W16 Quad-Turbo,8.0,16,1001,1250,407,2.6,1990,1700000,France,AWD,7-speed DSG
+Veyron Grand Sport Vitesse,2012,W16 Quad-Turbo,8.0,16,1200,1500,408,2.6,1990,2600000,France,AWD,7-speed DSG
+Chiron,2016,W16 Quad-Turbo,8.0,16,1500,1600,420,2.4,1995,3000000,France,AWD,7-speed DSG
+Chiron Sport,2018,W16 Quad-Turbo,8.0,16,1500,1600,420,2.4,1978,3200000,France,AWD,7-speed DSG
+Chiron Super Sport 300+,2019,W16 Quad-Turbo,8.0,16,1578,1600,490,2.4,1978,3900000,France,AWD,7-speed DSG
+Chiron Pur Sport,2020,W16 Quad-Turbo,8.0,16,1500,1600,350,2.3,1995,3600000,France,AWD,7-speed DSG
+Divo,2018,W16 Quad-Turbo,8.0,16,1500,1600,380,2.4,1995,6000000,France,AWD,7-speed DSG
+Bolide,2020,W16 Quad-Turbo,8.0,16,1824,1850,500,2.2,1240,4000000,France,AWD,7-speed DSG
+La Voiture Noire,2019,W16 Quad-Turbo,8.0,16,1500,1600,420,2.4,1995,18000000,France,AWD,7-speed DSG
+Centodieci,2019,W16 Quad-Turbo,8.0,16,1600,1600,380,2.4,1995,9000000,France,AWD,7-speed DSG
+Mistral,2022,W16 Quad-Turbo,8.0,16,1578,1600,420,2.4,1995,5000000,France,AWD,7-speed DSG
+Tourbillon,2024,Hybrid V16,8.3,16,1800,1800,445,2.0,1995,4000000,France,AWD,8-speed DSG
+EB110 GT,1991,V12 Quad-Turbo,3.5,12,560,611,342,3.2,1625,350000,Italy,AWD,6-speed Manual
+EB110 SS,1992,V12 Quad-Turbo,3.5,12,603,650,351,3.1,1520,420000,Italy,AWD,6-speed Manual
+EB112,1993,V12,6.0,12,455,570,290,5.0,1850,600000,Italy,AWD,6-speed Manual
+Type 35,1924,Inline-8,2.0,8,128,175,200,NULL,750,1200000,France,RWD,4-speed Manual
+Type 41 Royale,1927,Inline-8,12.8,8,300,NULL,180,NULL,3175,12000000,France,RWD,3-speed Manual
+Type 57 Atlantic,1936,Inline-8 DOHC,3.3,8,200,NULL,200,NULL,900,40000000,France,RWD,4-speed Manual
